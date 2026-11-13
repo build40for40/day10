@@ -1,0 +1,12 @@
+{
+  "source": "Daniel E. Sichel, The Price of Nails since 1695: A Window into Economic Change, NBER Working Paper 29617 (December 2021), Table 1, column 1",
+  "url": "https://www.nber.org/papers/w29617",
+  "what": "Average yearly percent change in the real price of nails (relative to consumer prices) in each era the paper identifies",
+  "eras": [
+    { "from": 1791, "to": 1820, "real_change_pct_per_year": -0.37 },
+    { "from": 1821, "to": 1860, "real_change_pct_per_year": -1.89 },
+    { "from": 1861, "to": 1880, "real_change_pct_per_year": 0.45 },
+    { "from": 1881, "to": 1930, "real_change_pct_per_year": -2.89 },
+    { "from": 1931, "to": 2018, "real_change_pct_per_year": 1.6 }
+  ]
+}
